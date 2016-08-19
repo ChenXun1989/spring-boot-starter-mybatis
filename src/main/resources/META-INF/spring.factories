@@ -1,0 +1,5 @@
+#dubbo
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.midai.springboot.mybatis.MybatisAutoConfiguration,\
+com.midai.springboot.mybatis.MyBatisMapperScannerConfig,\
+com.midai.springboot.mybatis.DataSourceConfiguration
